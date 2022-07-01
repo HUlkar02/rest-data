@@ -1,0 +1,6 @@
+{
+  "timestamp": "2022-06-30T06:21:27.911+00:00",
+  "status": 405,
+  "error": "Method Not Allowed",
+  "path": "/api/address/edit/1"
+}

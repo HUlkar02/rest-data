@@ -1,0 +1,6 @@
+{
+  "timestamp": "2022-06-30T06:21:57.309+00:00",
+  "status": 404,
+  "error": "Not Found",
+  "path": "/api/address/get-addresses/1"
+}

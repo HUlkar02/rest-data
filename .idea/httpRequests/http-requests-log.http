@@ -1,0 +1,94 @@
+GET http://localhost:8081/api/address/get-addresses
+Content-Type: application/json
+
+{
+  "city": "oasufd",
+  "street" : "skj"
+}
+
+<> 2022-06-30T112253.200.json
+
+###
+
+DELETE http://localhost:8081/api/address/delete/1
+
+###
+
+GET http://localhost:8081/api/address/get-addresses
+Content-Type: application/json
+
+{
+  "city": "oasufd",
+  "street" : "skj"
+}
+
+<> 2022-06-30T112203.200.json
+
+###
+
+GET http://localhost:8081/api/address/get-addresses/1
+Content-Type: application/json
+
+{
+  "city": "oasufd",
+  "street" : "skj"
+}
+
+<> 2022-06-30T112157.404.json
+
+###
+
+PUT http://localhost:8081/api/address/edit/1
+Content-Type: application/json
+
+{
+  "city": "oasufd",
+  "street" : "skj"
+}
+
+<> 2022-06-30T112136.202.json
+
+###
+
+GET http://localhost:8081/api/address/edit/1
+Content-Type: application/json
+
+{
+  "city": "oasufd",
+  "street" : "skj"
+}
+
+<> 2022-06-30T112128.405.json
+
+###
+
+GET http://localhost:8081/api/address/edit/1
+
+<> 2022-06-30T112044.405.json
+
+###
+
+GET http://localhost:8081/api/address/get-address/1
+
+<> 2022-06-30T112025.200.json
+
+###
+
+GET http://localhost:8081/api/address/get-addresse/1
+
+<> 2022-06-30T112008.404.json
+
+###
+
+GET http://localhost:8081/api/address/get-addresses
+
+<> 2022-06-30T111959.200.json
+
+###
+
+GET http://localhost:8081/api/address/get-addresses
+
+<> 2022-06-30T111949.200.json
+
+###
+
